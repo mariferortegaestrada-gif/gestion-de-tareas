@@ -1,0 +1,1 @@
+Micrositio académico: abre index.html en Chrome, Edge o Firefox. La demostración permite agregar tareas y cambiar estados; usa almacenamiento local del navegador. No es una app instalada ni tiene servidor/base de datos.
